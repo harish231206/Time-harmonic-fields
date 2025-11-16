@@ -1,7 +1,7 @@
 # Time-harmonic-fields
 
 1. INTRODUCTION :
-2. 
+   
 Electromagnetic fields are generally time-varying in nature, meaning they change with respect to time. Among these, a very important class of fields is called Time Harmonic Fields, which vary sinusoidally with time. These are written in the form:
 E(t) = Em cos(ωt + φ)
 A time harmonic signal is one that repeats itself periodically and allows electromagnetic engineers to simplify Maxwell’s equations.
@@ -9,7 +9,7 @@ Most practical applications in communication, microwave engineering, antenna des
 To simplify analysis, engineers use phasor representation, which converts time-domain sinusoidal functions into complex exponential functions. This converts differential equations into algebraic equations, making calculations easier.
 
 4. THEORY AND DERIVATIONS OF TIME HARMONIC FIELDS:
-5. 
+   
 2.1 Phasor Representation
 Any sinusoidal time-varying signal can be written as:
 E(t) = Re { Ê e^(jωt) }

@@ -9,6 +9,8 @@ Most practical applications in communication, microwave engineering, antenna des
 To simplify analysis, engineers use phasor representation, which converts time-domain sinusoidal functions into complex exponential functions. This converts differential equations into algebraic equations, making calculations easier.
 
 4. THEORY AND DERIVATIONS OF TIME HARMONIC FIELDS:
+5. ![WhatsApp Image 2025-11-16 at 12 57 19_30468d4e](https://github.com/user-attachments/assets/9c3e9e3e-7176-4900-8bb1-720f710964ab)
+
    
 2.1 Phasor Representation
 Any sinusoidal time-varying signal can be written as:
@@ -39,6 +41,8 @@ Gauss Law for Magnetic Field
 These equations describe the behaviour and propagation of time-harmonic electromagnetic fields.
 
 2.3 Derivation of Wave Equation:
+![WhatsApp Image 2025-11-16 at 12 57 34_fee10c41](https://github.com/user-attachments/assets/1c6d64bf-0bfa-43bf-bbe4-f410c4bd8700)
+
 
 Starting from:
 ∇ × E = – jωμH
@@ -82,6 +86,8 @@ Even light wavelength signals behave as time-harmonic fields at very high freque
 • Transmission lines carrying AC power
 • Electromagnetic interference and compatibility design
 Time harmonic fields make it possible to analyze all these systems using simple phasor mathematics.
+<img width="322" height="234" alt="image" src="https://github.com/user-attachments/assets/ab957c74-dc6b-434d-98f5-f1f90ccf9238" />
+
 
 8. ENERGY, POWER AND POYNTING VECTOR:
 
